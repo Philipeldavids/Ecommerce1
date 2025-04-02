@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NjFnxEWh3YE=",
+  "dgSpecHash": "yasC9zcCUUw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Desktop\\fromDecagonLaptop\\reposBackup\\repos\\MVC\\Ecommerce -WEEK 9 EF\\EcommerceData\\EcommerceData.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Ecommerce\\Ecommerce1\\EcommerceData\\EcommerceData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

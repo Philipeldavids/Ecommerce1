@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\fromDecagonLaptop\\reposBackup\\repos\\MVC\\Ecommerce -WEEK 9 EF\\EcommerceData\\EcommerceData.csproj": {}
+    "C:\\Users\\USER\\Desktop\\Ecommerce\\Ecommerce1\\EcommerceData\\EcommerceData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\fromDecagonLaptop\\reposBackup\\repos\\MVC\\Ecommerce -WEEK 9 EF\\EcommerceData\\EcommerceData.csproj": {
+    "C:\\Users\\USER\\Desktop\\Ecommerce\\Ecommerce1\\EcommerceData\\EcommerceData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\fromDecagonLaptop\\reposBackup\\repos\\MVC\\Ecommerce -WEEK 9 EF\\EcommerceData\\EcommerceData.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Ecommerce\\Ecommerce1\\EcommerceData\\EcommerceData.csproj",
         "projectName": "EcommerceData",
-        "projectPath": "C:\\Users\\USER\\Desktop\\fromDecagonLaptop\\reposBackup\\repos\\MVC\\Ecommerce -WEEK 9 EF\\EcommerceData\\EcommerceData.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\Ecommerce\\Ecommerce1\\EcommerceData\\EcommerceData.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\fromDecagonLaptop\\reposBackup\\repos\\MVC\\Ecommerce -WEEK 9 EF\\EcommerceData\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\Ecommerce\\Ecommerce1\\EcommerceData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
